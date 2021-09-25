@@ -1,0 +1,17 @@
+*{
+    margin: 5000;
+    padding: 500;
+    box-sizing: 50;
+}
+
+.FormRegistro{
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+}
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #ce3a3a;
+}
